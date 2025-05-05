@@ -1,0 +1,16 @@
+C:\Users\PC39\source\repos\BombDropper\BombDropper\obj\Debug\BombDropper.csproj.AssemblyReference.cache
+C:\Users\PC39\source\repos\BombDropper\BombDropper\obj\Debug\Bomb.baml
+C:\Users\PC39\source\repos\BombDropper\BombDropper\obj\Debug\MainWindow.baml
+C:\Users\PC39\source\repos\BombDropper\BombDropper\obj\Debug\Bomb.g.cs
+C:\Users\PC39\source\repos\BombDropper\BombDropper\obj\Debug\MainWindow.g.cs
+C:\Users\PC39\source\repos\BombDropper\BombDropper\obj\Debug\App.g.cs
+C:\Users\PC39\source\repos\BombDropper\BombDropper\obj\Debug\BombDropper_MarkupCompile.cache
+C:\Users\PC39\source\repos\BombDropper\BombDropper\obj\Debug\BombDropper.g.resources
+C:\Users\PC39\source\repos\BombDropper\BombDropper\obj\Debug\BombDropper.Properties.Resources.resources
+C:\Users\PC39\source\repos\BombDropper\BombDropper\obj\Debug\BombDropper.csproj.GenerateResource.cache
+C:\Users\PC39\source\repos\BombDropper\BombDropper\obj\Debug\BombDropper.csproj.CoreCompileInputs.cache
+C:\Users\PC39\source\repos\BombDropper\BombDropper\bin\Debug\BombDropper.exe.config
+C:\Users\PC39\source\repos\BombDropper\BombDropper\bin\Debug\BombDropper.exe
+C:\Users\PC39\source\repos\BombDropper\BombDropper\bin\Debug\BombDropper.pdb
+C:\Users\PC39\source\repos\BombDropper\BombDropper\obj\Debug\BombDropper.exe
+C:\Users\PC39\source\repos\BombDropper\BombDropper\obj\Debug\BombDropper.pdb
